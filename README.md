@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on [Numerical Simulation of Active Ising Model](https://github.com/omri-ben-ary/ActiveIsingModel)
 
-- 🌱 I’m currently learning **in the Technion Institute of Technology**
+- 👨‍💻 My projects are available at [My projects](https://github.com/omri-ben-ary?tab=repositories)
+
+- 🌱 I’m currently learning in the **Technion Institute of Technology**
 
 - 📫 How to reach me **omri.ba18@gmail.com**
 
